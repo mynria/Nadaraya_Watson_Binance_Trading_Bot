@@ -1,4 +1,4 @@
-# Cryptocurrency Trading Bot
+# Nadaraya Watson Binance Trading Bot
 
 A sophisticated automated trading bot for Binance Futures that combines multiple technical analysis indicators to generate trading signals for BTCUSDT. The bot uses both Exponential Moving Average (EMA) crossovers and Nadaraya-Watson estimator signals to make trading decisions.
 
